@@ -1,0 +1,6 @@
+{
+  "alg": "HS512",
+  "kty": "oct",
+  "use": "sig",
+  "k": "jiikBXstOlArDXO8YuvUhHgThMbeZ3XTb8kBn4tL-uoHWoR2p-zB3VB6XwMi9dQqrqlqXY55ZASRJIht2sw9pKeKHrd4De9kA_2V24SddcUk9vIug5zfTFDheUS-OUKzwXNtg2s72D8H-JgMDH63qGZxCbt86VilH0Az_BHdiCkfDy4a8F5AZ4FDABHwMgmj_NqNMPn7hqO6f0iWX3bkqqDAZToIfx4SEUbuFywFa1SpE9rrhO7a4sWc1_JPJR8Dz7XbuIqRfpvYDxXcTMTLZrAbe8JFTcWhWXZsULaAgdlQy33Z76QJLcYEYsx-P5sy5YGXZDzka_KiUtFL8UIObA"
+}

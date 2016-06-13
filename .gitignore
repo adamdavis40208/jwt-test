@@ -1,0 +1,69 @@
+# Ignore Play! working directory #
+bin/
+/db
+.eclipse
+/lib/
+/logs/
+/modules
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
+.cache
+.sbtserver
+
+bin/
+
+# Jive Ignore Files
+###################
+*/**/run-services/var
+
+# Ignore IDE Files
+###################
+*/.classpath
+*/.settings/
+*/.project
+*/.idea/
+*.idea
+*.iml
+*/*.iml
+*/*.idea
+*/.idea/
+workspace.xml
+*/**/workspace.xml
+
+# Ignore Eclipse Tomcat Server files
+####################################
+Servers/
+
+# Ignore Maven Build Artifacts
+###############################
+*/**/target/
+*/**/.metadata
+
+# Ignore Backup Files
+######################
+*.zargo~
+
+# Old Ignore Statements
+########################
+*/**/*.iml
+*/**/.idea
+*/.pmd
+*/reports/pmd-report.html
+
+# JRebel Stuff
+###############
+*/**/rebel.xml
+
+# Test Files
+#############
+*/**/dataimport.properties
+healthsparq/run-services/var
+
+#OSX stuff
+##########
+.DS_Store

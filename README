@@ -1,0 +1,14 @@
+JWT-Test
+
+JWT tokens on top of the Play framework
+———————————
+
+* A simple application that uses an initial basic auth /login controller
+* The /login populates a jwt token, allowing you to access /dosomething
+
+
+To see the cookie from the command-line:
+
+activator
+curl -i -vvv --user test:login localhost:9000/login
+
